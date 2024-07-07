@@ -4,6 +4,10 @@
 
 Treasure Hunters was a school project done as part of the programme, BowenEXPLORE! 2024 and was awarded the Certificate of Achievement. Treasure Hunters is a 8-bit platformer programmed with GDScript in Godot Engine.
 
+## Game Demo
+
+The game demo can be found here: https://youtu.be/mMctqCyhx_A 
+
 ## Project Directory
 
 | Folder name  | Purpose |
